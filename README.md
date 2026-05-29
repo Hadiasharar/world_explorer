@@ -71,4 +71,14 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 
+## screenshoots
+<h4>Home page</h4>
+<img width="1898" height="991" alt="image" src="https://github.com/user-attachments/assets/434cd949-ef0f-4476-9fc2-496fe5551704" />
+<h4>countries page</h4>
+<img width="1900" height="994" alt="image" src="https://github.com/user-attachments/assets/519e534b-75fd-4ee7-a5ef-e998ff8fce37" />
+<h4>country details page</h4>
+<img width="1900" height="995" alt="image" src="https://github.com/user-attachments/assets/d76857dd-03c6-4afe-bb0c-7d0713335662" />
+<h4> search page</h4>
+<img width="1870" height="990" alt="image" src="https://github.com/user-attachments/assets/5d5640e4-a225-4ae1-ad34-0ac09af93f81" />
+
+
